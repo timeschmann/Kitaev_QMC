@@ -35,7 +35,7 @@
  * ARISING FROM, OUT OF OR IN CONNECTION WITH THE SOFTWARE OR THE USE OR OTHER 
  * DEALINGS IN THE SOFTWARE.
  *
-/*****************************************************************************
+/*****************************************************************************/
 //  This software incorporates the Armadillo C++ Library
 //  Armadillo C++ Linear Algebra Library
 //  Copyright 2008-2020 Conrad Sanderson (http://conradsanderson.id.au)
